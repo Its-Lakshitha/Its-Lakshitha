@@ -1,76 +1,105 @@
-<h1 align="center">Hi 👋, I'm Lakshitha Fernando</h1>
+<div align="center">
 
+# ✨ Lakshitha Fernando ✨
+
+<p><em>👨‍🎓 I'mStudying at the University of Colombo...
+👨 Always learning new things
+👯 I’m looking to collaborate.
+🤔 I’m looking for help with Coding.
+🌱 Currently learning PHP,Java, MySql, Python, HTML, Flutter, CSS, JS</em></p>
+
+<hr>
+
+</div>
+
+## 👀 I'm interested in
+
+<div align="center"><p>Open source contribution, AI/ML, cloud architectures</p></div>
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'Its-Lakshitha' with your actual GitHub username in the URL below -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Its-Lakshitha">
-    <img src="https://komarev.com/ghpvc/?username=Its-Lakshitha&label=Profile%20views&color=00FFFF&style=flat-square" alt="Its-Lakshitha's profile views" />
-  </a>
+  <img src="https://profile-counter.glitch.me/Its-Lakshitha/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
 </p>
 
-## 📌 About Me
-- 👨‍🎓 I'mStudying at the University of Colombo...
-- 👨 Always learning new things
-- 👯 I’m looking to collaborate.
-- 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning PHP,Java, MySql, Python, HTML, Flutter, CSS, JS
+## 🏆 GitHub Trophies
 
-
-## 🧠 My Focus Areas
-- AI/ML Research Opensource Contribution
-
-
-## 📊 GitHub Stats & Trophies
+<!-- ⚠️ Important: Replace 'Its-Lakshitha' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Its-Lakshitha&show_icons=true&theme=cobalt&hide_border=true&count_private=true&cache_seconds=86400" alt="Its-Lakshitha's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Its-Lakshitha&theme=cobalt&hide_border=true&cache_seconds=86400" alt="Its-Lakshitha's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Its-Lakshitha&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lakshitha Fernando's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Lakshitha&theme=cobalt&radius=10" alt="Its-Lakshitha's Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Its-Lakshitha&theme=flat&column=7&margin-w=15&margin-h=15" />
 </p>
 
+## 📊 GitHub Stats
 
-## 🛠️ Languages & Tools
+<!-- ⚠️ Important: Replace 'Its-Lakshitha' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Its-Lakshitha&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
 
-### Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+## 🔝 Most Used Languages
 
-### Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+<!-- ⚠️ Important: Replace 'Its-Lakshitha' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Lakshitha&layout=compact&langs_count=10&theme=buefy"/>
+</div>
 
-### Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" /></p>
+## 🔥 Contribution Streak
 
-### Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+<!-- ⚠️ Important: Replace 'Its-Lakshitha' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Lakshitha&theme=buefy&hide_border=false" />
+</div>
 
-### DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /></p>
+## 💻 Tech Stack
 
-### Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Lakshitha&layout=compact&theme=cobalt&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+**🎨 Frontend**
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/lakshitha-fernando-475091266/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:avishkalakshitha0502@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+`React` • `Bootstrap` • `Tailwind` • `HTML5` • `CSS3`
 
+**⚙️ Backend**
 
+`Django` • `Laravel` • `MySQL` • `SQLite` • `Node.js` • `MongoDB`
 
-<!--
-**Its-Lakshitha/Its-Lakshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 DevOps**
 
-Here are some ideas to get you started:
+`Docker`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🧠 AI/ML**
+
+`Scikit-Learn` • `NumPy`
+
+**📱 Mobile**
+
+`Flutter` • `React Native`
+
+**💬 Languages**
+
+`JavaScript` • `Java` • `Python` • `PHP`
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Its-Lakshitha"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="in/lakshitha-fernando-475091266"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** avishkalakshitha0502@gmail.com
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
