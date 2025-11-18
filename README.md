@@ -15,7 +15,7 @@
 
 
 ## 🧠 My Focus Areas
-- AI/ML Research Opensource Contribution
+- AI/ML Research,Opensource Contribution,Cloud Computing & DevOps,Data Engineering & Pipelines
 
 
 ## 📊 GitHub Stats & Trophies
