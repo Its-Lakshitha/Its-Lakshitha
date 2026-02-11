@@ -7,6 +7,20 @@
   </a>
 </p>
 
+## 📌 About Me
+- 👨‍🎓 I'm Studying at the University of Colombo...
+- 👨 Always learning new things 👯 I’m looking to collaborate.
+- 🤔 I’m looking for help with Coding.
+- 🌱 Currently learning PHP, Java, MySQL, Python, HTML, Flutter, CSS, JS
+
+
+## 🧠 My Focus Areas
+- AI/ML Research
+- Opensource Contribution
+- Cloud Computing & DevOps
+- Data Engineering & Pipelines
+
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Its-Lakshitha&show_icons=true&theme=cobalt&hide_border=true&count_private=true&cache_seconds=86400" alt="Its-Lakshitha's GitHub Stats" width="49%" />
@@ -46,4 +60,6 @@
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/lakshitha-fernando-475091266/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:avishkalakshitha0502@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+
 
