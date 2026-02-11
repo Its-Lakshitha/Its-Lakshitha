@@ -1,79 +1,117 @@
+<!-- PREMIUM ANIMATED GITHUB PROFILE -->
 
-<h1 align="center">Hi 👋, I'm Lakshitha Fernando</h1>
-<h3 align="center">Software Engineer (Undergraduate) | AI & Cloud Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm Lakshitha Fernando
+</h1>
+
+<h3 align="center">
+  Software Engineer (Undergraduate) | AI & Cloud Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+Cloud+%7C+DevOps+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things;Open+Source+Contributor" />
+</p>
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 Studying at the **University of Colombo**
-- 👨‍💻 Passionate about building scalable software systems
-- 🌱 Currently learning: **PHP, Java, MySQL, Python, Flutter**
-- 🤝 Open to collaboration on exciting projects
-- 🚀 Interested in **AI/ML Research, DevOps, Cloud & Data Engineering**
-- 💬 Always improving & learning something new
+<p align="start">
+🎓 University of Colombo <br>
+🚀 Passionate about scalable software systems <br>
+🌱 Currently learning PHP, Java, MySQL, Flutter <br>
+🤝 Open for collaboration <br>
+☁ Interested in AI/ML, Cloud, DevOps & Data Engineering
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-### ⚙ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-### ☁ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## 🚀 Frontend
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-### 🔥 Profile Stats
-![Lakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Its-Lakshitha&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Lakshitha&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Its-Lakshitha&theme=tokyonight&hide_border=true)
-
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Its-Lakshitha&theme=tokyo-night)
+## ⚙ Backend
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/>
+</p>
 
 ---
 
-## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshitha_Fernando-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshitha-fernando-475091266/)
-[![Gmail](https://img.shields.io/badge/Gmail-avishkalakshitha0502%40gmail.com-red?style=flat&logo=gmail)](mailto:avishkalakshitha0502@gmail.com)
-
----
-
-## 💡 Quote I Believe In
-
-> “Consistency beats talent when talent doesn’t work hard.”
+## 💻 Programming Languages
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+</p>
 
 ---
 
-⭐️ From [Lakshitha Fernando](https://github.com/Its-Lakshitha)
+## ☁ DevOps & Cloud
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Its-Lakshitha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Lakshitha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Its-Lakshitha&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Its-Lakshitha&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Lakshitha&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lakshitha-fernando-475091266/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:avishkalakshitha0502@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ “Consistency beats talent when talent doesn’t work hard.”
+</p>
