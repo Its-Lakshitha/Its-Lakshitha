@@ -1,63 +1,79 @@
+
 <h1 align="center">Hi 👋, I'm Lakshitha Fernando</h1>
+<h3 align="center">Software Engineer (Undergraduate) | AI & Cloud Enthusiast</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Its-Lakshitha">
-    <img src="https://komarev.com/ghpvc/?username=Its-Lakshitha&label=Profile%20views&color=00FFFF&style=flat-square" alt="Its-Lakshitha's profile views" />
-  </a>
-</p>
+---
 
-## 📌 About Me
-- 👨‍🎓 I'mStudying at the University of Colombo...
-- 👨 Always learning new things
-- 👯 I’m looking to collaborate.
-- 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning PHP,Java, MySql, Python, HTML, Flutter, CSS, JS
+## 👨‍🎓 About Me
 
+- 🎓 Studying at the **University of Colombo**
+- 👨‍💻 Passionate about building scalable software systems
+- 🌱 Currently learning: **PHP, Java, MySQL, Python, Flutter**
+- 🤝 Open to collaboration on exciting projects
+- 🚀 Interested in **AI/ML Research, DevOps, Cloud & Data Engineering**
+- 💬 Always improving & learning something new
 
-## 🧠 My Focus Areas
-- AI/ML Research
-- Opensource Contribution
-- Cloud Computing & DevOps
-- Data Engineering & Pipelines
+---
 
+## 🛠 Tech Stack
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Its-Lakshitha&show_icons=true&theme=cobalt&hide_border=true&count_private=true&cache_seconds=86400" alt="Its-Lakshitha's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Its-Lakshitha&theme=cobalt&hide_border=true&cache_seconds=86400" alt="Its-Lakshitha's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Its-Lakshitha&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lakshitha Fernando's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Lakshitha&theme=cobalt&radius=10" alt="Its-Lakshitha's Activity Graph" />
-</p>
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
+### ⚙ Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-## 🛠️ Languages & Tools
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+### ☁ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-### Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" /></p>
+---
 
-### Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+## 📊 GitHub Stats
 
-### DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /></p>
+### 🔥 Profile Stats
+![Lakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Its-Lakshitha&show_icons=true&theme=tokyonight&hide_border=true)
 
-### Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Lakshitha&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Lakshitha&layout=compact&theme=cobalt&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Its-Lakshitha&theme=tokyonight&hide_border=true)
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/lakshitha-fernando-475091266/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:avishkalakshitha0502@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Its-Lakshitha&theme=tokyo-night)
 
+---
+
+## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshitha_Fernando-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshitha-fernando-475091266/)
+[![Gmail](https://img.shields.io/badge/Gmail-avishkalakshitha0502%40gmail.com-red?style=flat&logo=gmail)](mailto:avishkalakshitha0502@gmail.com)
+
+---
+
+## 💡 Quote I Believe In
+
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+⭐️ From [Lakshitha Fernando](https://github.com/Its-Lakshitha)
