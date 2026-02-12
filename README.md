@@ -9,7 +9,8 @@
 
 ## 📌 About Me
 - 👨‍🎓 I'm Studying at the University of Colombo...
-- 👨 Always learning new things 👯 I’m looking to collaborate.
+- 👨 Always learning new things
+- 👯 I’m looking to collaborate.
 - 🤔 I’m looking for help with Coding.
 - 🌱 Currently learning PHP, Java, MySQL, Python, HTML, Flutter, CSS, JS
 
